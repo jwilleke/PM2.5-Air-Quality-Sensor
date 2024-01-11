@@ -1,4 +1,4 @@
-# # PM2.5 Air Quality Sensor
+# PM2.5 Air Quality Sensor
 
 [Gravity: PM2.5 Air Quality Sensor SKU:SEN0460 Brand:DFRobot](https://www.dfrobot.com/product-2439.html) $39.90
 
